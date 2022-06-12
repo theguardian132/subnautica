@@ -135,8 +135,8 @@
                     {
                         "ID":1,
                         "name":"Reefback Leviathan Juvenile",
-                        "category":"Common",
-                        "size":37,
+                        "category":"Epic",
+                        "size":3700,
                         "sell":250400,
                         "image": "https://i.imgur.com/Knd4axq.png"
                     },
@@ -807,10 +807,18 @@
                     },
                     {
                         "ID":1,
+                        "name":"Sea Emperor Leviathan",
+                        "category":"Etherial",
+                        "size":20700,
+                        "sell":21240000000,
+                        "image": "https://i.imgur.com/G8xp8oM.png"
+                    },
+                    {
+                        "ID":2,
                         "name":"Grand Demon Leviathan",
                         "category":"Mythical",
                         "size":37300,
-                        "sell":353458000,
+                        "sell":30458000,
                         "image": "https://i.imgur.com/WuWQOYy.jpg"
                     }
                 ]
@@ -1251,6 +1259,14 @@
                         "size":450,
                         "sell":8690,
                         "image": "https://i.imgur.com/2uJIRkL.png"
+                    },
+                    {
+                        "ID":11,
+                        "name":"Sea Emperor Leviathan Juvenile",
+                        "category":"Etherial",
+                        "size":10200,
+                        "sell":10890000000,
+                        "image": "https://i.imgur.com/ZtW8NRc.png"
                     }
                 ]
             },
@@ -1272,7 +1288,7 @@
                         "name":"Gargantuan Leviathan",
                         "category":"Spectral",
                         "size":154000,
-                        "sell":2578900000,
+                        "sell":1522900000,
                         "image": "https://i.imgur.com/JutTX8i.png"
                     },
                     {
@@ -1280,7 +1296,7 @@
                         "name":"Grand Demon Leviathan",
                         "category":"Mythical",
                         "size":37300,
-                        "sell":353458000,
+                        "sell":30458000,
                         "image": "https://i.imgur.com/WuWQOYy.jpg"
                     }
                 ]
