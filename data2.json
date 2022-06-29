@@ -5,6 +5,7 @@
       "category": "Common",
       "size": "20",
       "sell": "200",
+      "zone": "Safe Shallows",
       "link": "https://i.imgur.com/9tBkTdD.jpg"
     },
     {
@@ -12,6 +13,7 @@
       "category": "Common",
       "size": "32",
       "sell": "200",
+      "zone": "Safe Shallows",
       "link": "https://i.imgur.com/W5IegiJ.png"
     },
     {
@@ -19,6 +21,7 @@
       "category": "Common",
       "size": "31",
       "sell": "200",
+      "zone": "Safe Shallows",
       "link": "https://i.imgur.com/dtBM9sP.png"
     },
     {
@@ -26,6 +29,7 @@
       "category": "Uncommon",
       "size": "20",
       "sell": "400",
+      "zone": "Safe Shallows",
       "link": "https://i.imgur.com/sbe22fQ.jpg"
     },
     {
@@ -33,6 +37,7 @@
       "category": "Uncommon",
       "size": "28",
       "sell": "350",
+      "zone": "Safe Shallows",
       "link": "https://i.imgur.com/qrU1J3y.png"
     },
     {
@@ -40,6 +45,7 @@
       "category": "Rare",
       "size": "470",
       "sell": "2800",
+      "zone": "Safe Shallows",
       "link": "https://i.imgur.com/d5RYnzo.png"
     },
     {
@@ -47,6 +53,7 @@
       "category": "Uncommon",
       "size": "40",
       "sell": "370",
+      "zone": "Safe Shallows",
       "link": "https://i.imgur.com/jjzQDkj.jpg"
     },
     {
@@ -54,6 +61,7 @@
       "category": "Common",
       "size": "48",
       "sell": "300",
+      "zone": "Safe Shallows",
       "link": "https://i.imgur.com/uxjOIK9.jpg"
     },
     {
@@ -61,6 +69,7 @@
       "category": "Common",
       "size": "30",
       "sell": "200",
+      "zone": "Safe Shallows",
       "link": "https://i.imgur.com/1dTrbf4.png"
     },
     {
@@ -68,6 +77,7 @@
       "category": "Common",
       "size": "37",
       "sell": "250",
+      "zone": "Safe Shallows",
       "link": "https://i.imgur.com/CNzSzIY.png"
     },
     {
@@ -75,6 +85,7 @@
       "category": "Uncommon",
       "size": "36",
       "sell": "500",
+      "zone": "Safe Shallows",
       "link": "https://i.imgur.com/2XFEyFf.png"
     },
     {
@@ -82,6 +93,7 @@
       "category": "Legendary",
       "size": "3000",
       "sell": "730600",
+      "zone": "Safe Shallows",
       "link": "https://i.imgur.com/LkQDqFb.png"
     },
     {
@@ -89,6 +101,7 @@
       "category": "Uncommon",
       "size": "62",
       "sell": "760",
+      "zone": "Safe Shallows",
       "link": "https://i.imgur.com/5jm5Ile.png"
     },
     {
@@ -96,6 +109,7 @@
       "category": "Common",
       "size": "31",
       "sell": "240",
+      "zone": "Safe Shallows",
       "link": "https://i.imgur.com/g4IPL3z.png"
     }
   ]
