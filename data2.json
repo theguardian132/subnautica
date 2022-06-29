@@ -311,6 +311,54 @@
       "sell": "6590",
       "zone": "Deep Grand Reef",
       "link": "https://i.imgur.com/K0tGSan.png"
+    },
+    {
+      "name": "bleeder",
+      "category": "Uncommon",
+      "size": "19",
+      "sell": "370",
+      "zone": "Lost River",
+      "link": "https://i.imgur.com/EVAjNvI.png"
+    },
+    {
+      "name": "ghostray",
+      "category": "Uncommon",
+      "size": "250",
+      "sell": "990",
+      "zone": "Lost River",
+      "link": "https://i.imgur.com/UC5HJWw.png"
+    },
+    {
+      "name": "ghost leviathan juvenile",
+      "category": "Legendary",
+      "size": "6700",
+      "sell": "1720500",
+      "zone": "Lost River",
+      "link": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "name": "mesmer",
+      "category": "Rare",
+      "size": "67",
+      "sell": "1990",
+      "zone": "Lost River",
+      "link": "https://i.imgur.com/UUfnPCp.png"
+    },
+    {
+      "name": "river prowler",
+      "category": "Rare",
+      "size": "1100",
+      "sell": "4100",
+      "zone": "Lost River",
+      "link": "https://i.imgur.com/vyRypZv.jpg"
+    },
+    {
+      "name": "blaza leviathan",
+      "category": "Legendary",
+      "size": "11500",
+      "sell": "2130900",
+      "zone": "Lost River",
+      "link": "https://i.imgur.com/BwzL8ou.png"
     }
   ]
 }
