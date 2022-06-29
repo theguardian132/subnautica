@@ -111,6 +111,54 @@
       "sell": "240",
       "zone": "Safe Shallows",
       "link": "https://i.imgur.com/g4IPL3z.png"
+    },
+    {
+      "name": "reefback leviathan juvenile",
+      "category": "Epic",
+      "size": "3700",
+      "sell": "250400",
+      "zone": "Sparse Reef",
+      "link": "https://i.imgur.com/Knd4axq.png"
+    },
+    {
+      "name": "reginald",
+      "category": "Common",
+      "size": "30",
+      "sell": "200",
+      "zone": "Sparse Reef",
+      "link": "https://i.imgur.com/NCAzEvi.jpg"
+    },
+    {
+      "name": "shuttlebug",
+      "category": "Uncommon",
+      "size": "27",
+      "sell": "410",
+      "zone": "Sparse Reef",
+      "link": "https://i.imgur.com/Mly7Elf.jpg"
+    },
+    {
+      "name": "emerald clown pincher",
+      "category": "Uncommon",
+      "size": "36",
+      "sell": "500",
+      "zone": "Sparse Reef",
+      "link": "https://i.imgur.com/qTm1lzD.png"
+    },
+    {
+      "name": "amber clown pincher",
+      "category": "Uncommon",
+      "size": "36",
+      "sell": "500",
+      "zone": "Sparse Reef",
+      "link": "https://i.imgur.com/MuFjv1C.png"
+    },
+    {
+      "name": "stellar thallassacean",
+      "category": "Epic",
+      "size": "1200",
+      "sell": "47500",
+      "zone": "Sparse Reef",
+      "link": "https://i.imgur.com/jBTke9b.png"
     }
   ]
 }
