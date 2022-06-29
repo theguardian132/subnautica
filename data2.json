@@ -159,6 +159,110 @@
       "sell": "47500",
       "zone": "Sparse Reef",
       "link": "https://i.imgur.com/jBTke9b.png"
+    },
+    {
+      "name": "eyeye",
+      "category": "Common",
+      "size": "28",
+      "sell": "180",
+      "zone": "Kelp Forest",
+      "link": "https://i.imgur.com/jdcU4nC.png"
+    },
+    {
+      "name": "hoopfish",
+      "category": "Common",
+      "size": "27",
+      "sell": "200",
+      "zone": "Kelp Forest",
+      "link": "https://i.imgur.com/1I7IeiH.png"
+    },
+    {
+      "name": "hoverfish",
+      "category": "Uncommon",
+      "size": "38",
+      "sell": "420",
+      "zone": "Kelp Forest",
+      "link": "https://i.imgur.com/wQZRj9t.png"
+    },
+    {
+      "name": "stalker",
+      "category": "Uncommon",
+      "size": "180",
+      "sell": "900",
+      "zone": "Kelp Forest",
+      "link": "https://i.imgur.com/Gc8qMDh.png"
+    },
+    {
+      "name": "ampeel",
+      "category": "Rare",
+      "size": "1100",
+      "sell": "4050",
+      "zone": "Blood Kelp Zone",
+      "link": "https://i.imgur.com/hHyRaNE.jpg"
+    },
+    {
+      "name": "blighter",
+      "category": "Uncommon",
+      "size": "22",
+      "sell": "300",
+      "zone": "Blood Kelp Zone",
+      "link": "https://i.imgur.com/ke5jbH3.jpg"
+    },
+    {
+      "name": "blood crawler",
+      "category": "Uncommon",
+      "size": "40",
+      "sell": "500",
+      "zone": "Blood Kelp Zone",
+      "link": "https://i.imgur.com/QKrzlCr.png"
+    },
+    {
+      "name": "spinefish",
+      "category": "Common",
+      "size": "29",
+      "sell": "200",
+      "zone": "Blood Kelp Zone",
+      "link": "https://i.imgur.com/inXivDO.jpg"
+    },
+    {
+      "name": "spinefish",
+      "category": "Common",
+      "size": "29",
+      "sell": "200",
+      "zone": "Blood Kelp Zone",
+      "link": "https://i.imgur.com/inXivDO.jpg"
+    },
+    {
+      "name": "warper",
+      "category": "Epic",
+      "size": "170",
+      "sell": "7480",
+      "zone": "Blood Kelp Zone",
+      "link": "https://i.imgur.com/XRsxfIV.png"
+    },
+    {
+      "name": "gulper leviathan",
+      "category": "Legendary",
+      "size": "6000",
+      "sell": "1780000",
+      "zone": "Blood Kelp Zone",
+      "link": "https://i.imgur.com/kLQA0iO.png"
+    },
+    {
+      "name": "twisteel",
+      "category": "Epic",
+      "size": "1800",
+      "sell": "56400",
+      "zone": "Blood Kelp Zone",
+      "link": "https://i.imgur.com/XdXZ3p2.png"
+    },
+    {
+      "name": "jasper thallassacean",
+      "category": "Epic",
+      "size": "1190",
+      "sell": "45600",
+      "zone": "Blood Kelp Zone",
+      "link": "https://i.imgur.com/nuEp4sZ.png"
     }
   ]
 }
