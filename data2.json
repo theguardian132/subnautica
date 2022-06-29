@@ -263,6 +263,54 @@
       "sell": "45600",
       "zone": "Blood Kelp Zone",
       "link": "https://i.imgur.com/nuEp4sZ.png"
+    },
+    {
+      "name": "spadefish",
+      "category": "Common",
+      "size": "30",
+      "sell": "200",
+      "zone": "Mushroom Forest",
+      "link": "https://i.imgur.com/Xt3mcnE.jpg"
+    },
+    {
+      "name": "crabsquid",
+      "category": "Rare",
+      "size": "500",
+      "sell": "3100",
+      "zone": "Deep Grand Reef",
+      "link": "https://i.imgur.com/KBzDuHM.png"
+    },
+    {
+      "name": "jelly ray",
+      "category": "Uncommon",
+      "size": "190",
+      "sell": "960",
+      "zone": "Deep Grand Reef",
+      "link": "https://i.imgur.com/EF8ufGh.png"
+    },
+    {
+      "name": "axetail",
+      "category": "Uncommon",
+      "size": "50",
+      "sell": "540",
+      "zone": "Deep Grand Reef",
+      "link": "https://i.imgur.com/OO1iB8I.png"
+    },
+    {
+      "name": "sapphire clown pincher",
+      "category": "Uncommon",
+      "size": "36",
+      "sell": "500",
+      "zone": "Deep Grand Reef",
+      "link": "https://i.imgur.com/h1KsPNo.png"
+    },
+    {
+      "name": "grand glider",
+      "category": "Rare",
+      "size": "530",
+      "sell": "6590",
+      "zone": "Deep Grand Reef",
+      "link": "https://i.imgur.com/K0tGSan.png"
     }
   ]
 }
