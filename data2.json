@@ -359,6 +359,110 @@
       "sell": "2130900",
       "zone": "Lost River",
       "link": "https://i.imgur.com/BwzL8ou.png"
+    },
+    {
+      "name": "bone shark",
+      "category": "Rare",
+      "size": "840",
+      "sell": "3770",
+      "zone": "Crash Zone",
+      "link": "https://i.imgur.com/WcZE7hq.png"
+    },
+    {
+      "name": "sand shark",
+      "category": "Rare",
+      "size": "500",
+      "sell": "2250",
+      "zone": "Crash Zone",
+      "link": "https://i.imgur.com/Ejo0kju.png"
+    },
+    {
+      "name": "reaper leviathan",
+      "category": "Legendary",
+      "size": "5500",
+      "sell": "1679600",
+      "zone": "Crash Zone",
+      "link": "https://i.imgur.com/14sGSJ2.jpg"
+    },
+    {
+      "name": "crimson ray",
+      "category": "Uncommon",
+      "size": "300",
+      "sell": "1000",
+      "zone": "Lava Zone",
+      "link": "https://i.imgur.com/ii63Q5r.png"
+    },
+    {
+      "name": "lava larva",
+      "category": "Uncommon",
+      "size": "24",
+      "sell": "410",
+      "zone": "Lava Zone",
+      "link": "https://i.imgur.com/DEhFwIb.png"
+    },
+    {
+      "name": "lava lizard",
+      "category": "Rare",
+      "size": "870",
+      "sell": "3850",
+      "zone": "Lava Zone",
+      "link": "https://i.imgur.com/AblidWp.png"
+    },
+    {
+      "name": "magmarang",
+      "category": "Common",
+      "size": "33",
+      "sell": "210",
+      "zone": "Lava Zone",
+      "link": "https://i.imgur.com/0bOcIwM.png"
+    },
+    {
+      "name": "red eyeye",
+      "category": "Common",
+      "size": "36",
+      "sell": "230",
+      "zone": "Lava Zone",
+      "link": "https://i.imgur.com/5CynMOd.png"
+    },
+    {
+      "name": "sea dragon leviathan",
+      "category": "Legendary",
+      "size": "11000",
+      "sell": "1980000",
+      "zone": "Lava Zone",
+      "link": "https://i.imgur.com/iALri8R.png"
+    },
+    {
+      "name": "ruby clown pincher",
+      "category": "Common",
+      "size": "36",
+      "sell": "500",
+      "zone": "Lava Zone",
+      "link": "https://i.imgur.com/rp90cMx.png"
+    },
+    {
+      "name": "ghost leviathan",
+      "category": "Legendary",
+      "size": "10700",
+      "sell": "2120500",
+      "zone": "Crater Edge - The Void",
+      "link": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "name": "grand demon leviathan",
+      "category": "Mythical",
+      "size": "37300",
+      "sell": "30458000",
+      "zone": "Crater Edge - The Void",
+      "link": "https://i.imgur.com/WuWQOYy.jpg"
+    },
+    {
+      "name": "sea emperor leviathan",
+      "category": "Etherial",
+      "size": "20700",
+      "sell": "21240000000",
+      "zone": "Crater Edge - The Void",
+      "link": "https://i.imgur.com/G8xp8oM.png"
     }
   ]
 }
