@@ -463,6 +463,14 @@
       "sell": "21240000000",
       "zone": "Crater Edge - The Void",
       "link": "https://i.imgur.com/G8xp8oM.png"
+    },
+    {
+      "name": "gargantuan leviathan",
+      "category": "Spectral",
+      "size": "154000",
+      "sell": "1522900000",
+      "zone": "World Edge - The Void",
+      "link": "https://i.imgur.com/JutTX8i.png"
     }
   ]
 }
