@@ -471,6 +471,62 @@
       "sell": "1522900000",
       "zone": "World Edge - The Void",
       "link": "https://i.imgur.com/JutTX8i.png"
+    },
+    {
+      "name": "arctic peeper",
+      "category": "Common",
+      "size": "34",
+      "sell": "200",
+      "zone": "Shallow Twisty Bridges – Twisty Bridges",
+      "link": "https://i.imgur.com/Qsx7khe.png"
+    },
+    {
+      "name": "hoopfish",
+      "category": "Common",
+      "size": "27",
+      "sell": "190",
+      "zone": "Shallow Twisty Bridges – Twisty Bridges",
+      "link": "https://i.imgur.com/1I7IeiH.png"
+    },
+    {
+      "name": "arctic ray",
+      "category": "Uncommon",
+      "size": "120",
+      "sell": "990",
+      "zone": "Shallow Twisty Bridges – Twisty Bridges",
+      "link": "https://i.imgur.com/fJwcFHQ.png"
+    },
+    {
+      "name": "brinewing",
+      "category": "Uncommon",
+      "size": "68",
+      "sell": "670",
+      "zone": "Sparse Arctic",
+      "link": "https://i.imgur.com/jsA3grS.png"
+    },
+    {
+      "name": "pengwing",
+      "category": "Uncommon",
+      "size": "32",
+      "sell": "220",
+      "zone": "Sparse Arctic",
+      "link": "https://i.imgur.com/dH8XB25.png"
+    },
+    {
+      "name": "symbiote",
+      "category": "Rare",
+      "size": "21",
+      "sell": "560",
+      "zone": "Sparse Arctic",
+      "link": "https://i.imgur.com/HyPRuuO.png"
+    },
+    {
+      "name": "titan holefish",
+      "category": "Epic",
+      "size": "450",
+      "sell": "8690",
+      "zone": "Sparse Arctic",
+      "link": "https://i.imgur.com/2uJIRkL.png"
     }
   ]
 }
