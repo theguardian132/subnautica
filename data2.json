@@ -527,6 +527,46 @@
       "sell": "8690",
       "zone": "Sparse Arctic",
       "link": "https://i.imgur.com/2uJIRkL.png"
+    },
+    {
+      "name": "rainbow alpha peeper",
+      "category": "Etherial",
+      "size": "51",
+      "sell": "24500780000",
+      "zone": "Safe Shallows",
+      "link": "https://i.imgur.com/IcPgupc.png"
+    },
+    {
+      "name": "aeon alpha peeper",
+      "category": "Etherial",
+      "size": "56",
+      "sell": "30600780900",
+      "zone": "Kelp Forest",
+      "link": "https://i.imgur.com/LpLYfsL.png"
+    },
+    {
+      "name": "ghostly alpha peeper",
+      "category": "Etherial",
+      "size": "50",
+      "sell": "26309000000",
+      "zone": "Lost River",
+      "link": "https://i.imgur.com/SWqIzRf.png"
+    },
+    {
+      "name": "illuminant alpha peeper",
+      "category": "Etherial",
+      "size": "54",
+      "sell": "24309005700",
+      "zone": "Lost River",
+      "link": "https://i.imgur.com/kZ09u6J.png"
+    },
+    {
+      "name": "spectre alpha peeper",
+      "category": "Etherial",
+      "size": "50",
+      "sell": "27500980000",
+      "zone": "Crystal Cave",
+      "link": "https://i.imgur.com/nxMXhNm.png"
     }
   ]
 }
