@@ -117,6 +117,14 @@
                         "size":31,
                         "sell":240,
                         "image": "https://i.imgur.com/g4IPL3z.png"
+                    },
+                    {
+                        "ID":14,
+                        "name":"Rainbow Alpha Peeper",
+                        "category":"Etherial",
+                        "size":51,
+                        "sell":24500780000,
+                        "image": "https://i.imgur.com/IcPgupc.png"
                     }
                 ]
             },
@@ -265,6 +273,14 @@
                         "size":3000,
                         "sell":730600,
                         "image": "https://i.imgur.com/LkQDqFb.png"
+                    },
+                    {
+                        "ID":10,
+                        "name":"Aeon Alpha Peeper",
+                        "category":"Etherial",
+                        "size":56,
+                        "sell":30600780900,
+                        "image": "https://i.imgur.com/LpLYfsL.png"
                     }
                 ]
             },
@@ -593,6 +609,22 @@
                         "size":11500,
                         "sell":2130900,
                         "image": "https://i.imgur.com/BwzL8ou.png"
+                    },
+                    {
+                        "ID":10,
+                        "name":"Ghostly Alpha Peeper",
+                        "category":"Etherial",
+                        "size":50,
+                        "sell":26309000000,
+                        "image": "https://i.imgur.com/SWqIzRf.png"
+                    },
+                    {
+                        "ID":11,
+                        "name":"Illuminant Alpha Peeper",
+                        "category":"Etherial",
+                        "size":52,
+                        "sell":24309005700,
+                        "image": "https://i.imgur.com/kZ09u6J.png"
                     }
                 ]
             },
@@ -1165,6 +1197,14 @@
                         "size":30,
                         "sell":200,
                         "image": "https://i.imgur.com/5oDIu17.png"
+                    },
+                    {
+                        "ID":6,
+                        "name":"Spectre Alpha Peeper",
+                        "category":"Etherial",
+                        "size":50,
+                        "sell":27500980000,
+                        "image": "https://i.imgur.com/nxMXhNm.png"
                     }
                 ]
             },
@@ -1298,6 +1338,14 @@
                         "size":37300,
                         "sell":30458000,
                         "image": "https://i.imgur.com/WuWQOYy.jpg"
+                    },
+                    {
+                        "ID":3,
+                        "name":"Baby Gargantuan Leviathan",
+                        "category":"Etherial",
+                        "size":5000,
+                        "sell":30800458000,
+                        "image": "https://i.imgur.com/yawZ7LX.png"
                     }
                 ]
             }
