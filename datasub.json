@@ -1364,7 +1364,7 @@
                         "category":"Common",
                         "size":15,
                         "sell":200,
-                        "image": "https://i.imgur.com/mGNV13j.jpg"
+                        "image": "https://i.imgur.com/pmDYSKE.png"
                     },
                     {
                         "ID":1,
@@ -1372,7 +1372,7 @@
                         "category":"Uncommon",
                         "size":34,
                         "sell":400,
-                        "image": "https://i.imgur.com/tzZA92b.jpg"
+                        "image": "https://i.imgur.com/pmDYSKE.png"
                     },
                     {
                         "ID":2,
@@ -1380,7 +1380,7 @@
                         "category":"Common",
                         "size":13,
                         "sell":250,
-                        "image": "https://i.imgur.com/EOG6U5G.jpg"
+                        "image": "https://i.imgur.com/pmDYSKE.png"
                     },
                     {
                         "ID":3,
@@ -1388,7 +1388,7 @@
                         "category":"Rare",
                         "size":60,
                         "sell":1800,
-                        "image": "https://i.imgur.com/RWN0poW.jpg"
+                        "image": "https://i.imgur.com/pmDYSKE.png"
                     },
                     {
                         "ID":4,
@@ -1396,7 +1396,7 @@
                         "category":"Epic",
                         "size":134,
                         "sell":12600,
-                        "image": "https://i.imgur.com/F98J6qj.jpg"
+                        "image": "https://i.imgur.com/pmDYSKE.png"
                     },
                     {
                         "ID":5,
@@ -1552,17 +1552,17 @@
                     {
                         "ID":1,
                         "name":"Titanus El Colossus",
-                        "category":"Unknown",
+                        "category":"Unreal",
                         "size":16560,
-                        "sell":24760000000000,
+                        "sell":32760000000000,
                         "image": "https://i.imgur.com/edMOD5B.png"
                     },
                     {
                         "ID":2,
                         "name":"Dragonlord Kranivarya",
-                        "category":"Unknown",
+                        "category":"Unreal",
                         "size":31230,
-                        "sell":22253400000000,
+                        "sell":30253400000000,
                         "image": "https://i.imgur.com/JbWEwkg.png"
                     }
                 ]
